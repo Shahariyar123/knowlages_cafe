@@ -1,0 +1,52 @@
+[
+  {
+    "id": "12345",
+    "cover": "https://i.ibb.co/fqKPMGR/aerial-view-man-working-computer.jpg",
+    "title": "Exploring the Hidden Wonders of the Amazon Rainforest",
+    "author": "Jane Smith",
+    "author_img": "https://example.com/author1.jpg",
+    "posted_date": "July 15, 2023",
+    "reading_time": "12 minutes",
+    "hashtags": ["#Rainforest", "#Nature", "#Adventure"]
+  },
+  {
+    "id": "67890",
+    "cover": "https://i.ibb.co/476LsYb/pens-near-notebook-twig-papers-keyboard.jpg",
+    "title": "The Art of Astrophotography: Capturing the Cosmos",
+    "author": "John Doe",
+    "author_img": "https://example.com/author2.jpg",
+    "posted_date": "August 3, 2023",
+    "reading_time": "15 minutes",
+    "hashtags": ["#Astrophotography", "#Space", "#Photography"]
+  },
+  {
+    "id": "13579",
+    "cover": "    https://i.ibb.co/3Mvgk5X/calculator-smartphone-near-stationery.jpg",
+    "title": "Healthy Eating Habits: A Guide to Nutritional Wellness",
+    "author": "Emily Green",
+    "author_img": "https://example.com/author3.jpg",
+    "posted_date": "June 21, 2023",
+    "reading_time": "8 minutes",
+    "hashtags": ["#Nutrition", "#Health", "#Wellness"]
+  },
+  {
+    "id": "24680",
+    "cover": "    https://i.ibb.co/p1hFwHY/pens-near-notebook-camera-earphones-papers-keyboard.jpg",
+    "title": "The Art of Fiction Writing: Crafting Compelling Stories",
+    "author": "Michael Johnson",
+    "author_img": "https://example.com/author4.jpg",
+    "posted_date": "May 10, 2023",
+    "reading_time": "20 minutes",
+    "hashtags": ["#Writing", "#Fiction", "#Storytelling"]
+  },
+  {
+    "id": "54321",
+    "cover": "https://i.ibb.co/Tqvck4h/technology-communication-icons-symbols-concept.jpg",
+    "title": "Urban Gardening: Transforming Your Balcony into a Green Oasis",
+    "author": "Sarah Wilson",
+    "author_img": "https://example.com/author5.jpg",
+    "posted_date": "April 5, 2023",
+    "reading_time": "10 minutes",
+    "hashtags": ["#Gardening", "#UrbanGarden", "#GreenLiving"]
+  }
+]
